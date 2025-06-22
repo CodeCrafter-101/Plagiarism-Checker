@@ -1,0 +1,2 @@
+doc2
+Artificial Intelligence has changed the way industries operate by mimicking human intelligence through machines. Technologies like voice-controlled assistants, autonomous vehicles, and AI-driven healthcare systems are prime examples. These systems rely on machine learning algorithms that learn from data, adapt over time, and enhance performance, contributing significantly to innovation and automation in the digital world.

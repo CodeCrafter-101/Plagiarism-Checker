@@ -1,0 +1,2 @@
+doc1
+Artificial Intelligence (AI) is revolutionizing the modern world by enabling machines to perform tasks that typically require human intelligence. From voice assistants and self-driving cars to fraud detection and medical diagnosis, AI systems are improving efficiency and accuracy across various industries. The use of machine learning algorithms allows these systems to continuously learn from data and adapt to new scenarios, making them highly versatile and powerful tools in today’s digital era.
