@@ -21,11 +21,11 @@ Definition
 
 ### Steps to Achieve This
 - Prepare Your Text Files
-- - Place two text files (e.g., `doc1.txt` and `doc2.txt`) in your project folder. These will be compared.
+  - Place two text files (e.g., `doc1.txt` and `doc2.txt`) in your project folder. These will be compared.
 - Use TF-IDF Vectorization
-- - Use `TfidfVectorizer` to convert the raw text into numerical vectors that represent the importance of words.
+  - Use `TfidfVectorizer` to convert the raw text into numerical vectors that represent the importance of words.
 - Calculate Cosine Similarity
-- - Use `cosine_similarity` to calculate how close the documents are in terms of content.
+  - Use `cosine_similarity` to calculate how close the documents are in terms of content.
 
 
 ## Install Dependencies
